@@ -1,4 +1,4 @@
-package br.com.senai.introducao;
+package br.com.senai.introducao.classes.classe;
 
 public class Conta {
     private double saldo;

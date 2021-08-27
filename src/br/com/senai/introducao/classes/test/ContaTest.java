@@ -1,4 +1,6 @@
-package br.com.senai.introducao;
+package br.com.senai.introducao.classes.test;
+
+import br.com.senai.introducao.classes.classe.Conta;
 
 public class ContaTest {
     public static void main(String[] args) {
